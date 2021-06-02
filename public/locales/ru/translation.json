@@ -1,0 +1,10 @@
+{
+  "welcome_to_react": "Добро пожаловать в React и react-i18next",
+  "enter_text": "введите текст ...",
+  "popular": "сортировка по голосам",
+  "sort_by_name": "сортировка по имени",
+  "language": "язык",
+  "filter": "фильтр",
+  "sort_by_date": "сортировка от...до",
+  "now_playing_movies": "сейчас просматривают"
+}
